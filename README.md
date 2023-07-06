@@ -1,7 +1,7 @@
 # mainstack_dashboard
 
 ## Description
-Dashboard Mainstack is a React-based web application for managing and displaying data.
+The Mainstack Dashboard is a feature-rich web application built using React, JavaScript and Styled-Components. It offers real-time monitoring, interactive data visualization, and system configuration capabilities for the Mainstack system. 
 
 ## Live Demo
 A live demo of the application can be accessed at https://dashboardmainstack.netlify.app/.
