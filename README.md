@@ -1,19 +1,20 @@
 # mainstack_dashboard
 
 ## Description
-The Mainstack Dashboard is a feature-rich web application built using React, JavaScript and Styled-Components. It offers real-time monitoring, interactive data visualization, and system configuration capabilities for the Mainstack system. 
+The Mainstack Dashboard is a feature-rich web application built using React, JavaScript and Styled Components. It offers real-time monitoring, interactive data visualization, and system configuration capabilities for the Mainstack system. 
 
-## Live Demo
+### Live Demo
 A live demo of the application can be accessed at https://dashboardmainstack.netlify.app/.
 
 ## Technologies and Tools
-The application is built using the following technologies and tools:
-React - JavaScript library for building user interfaces
-JavaScript (JSX) - JavaScript syntax extension for React components
-Styled-Components - Library for styling React components
-Jest and React Testing Library - Testing frameworks for unit and integration testing
-Git - Version control system
-Netlify - Platform for hosting and deploying web applications
+The MainStack Dashboard application features:
+
+- Built with React, a JavaScript library for building user interfaces
+- Utilizes JavaScript (JSX) for writing React components
+- Styled-Components library for styling React components
+- Comprehensive testing with Jest and React Testing Library
+- Version control with Git for efficient collaboration
+- Hosted and deployed on Netlify for seamless deployment and scalability
 
 ## Installation
 To run the application on your local environment, follow these steps:
